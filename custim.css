@@ -41,4 +41,5 @@ footer p {
 .jumbotron {
   background-image: url("baner1.jpg");
   background-size: cover;
+  height: 700px;
 }
